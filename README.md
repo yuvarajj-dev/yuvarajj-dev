@@ -4,14 +4,28 @@
 🌍 I am a Front-End React Developer based in Tamil Nadu, India.
 
 ### Skills
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML & CSS"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next" alt="React & Next.js"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,scss" alt="Tailwind CSS & SCSS"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redux" alt="Redux"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"></a>
+    &nbsp;
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
+</div>
 
-[![HTML & CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![React & Next.js](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Tailwind CSS & SCSS](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
 
 ### Socials
 
