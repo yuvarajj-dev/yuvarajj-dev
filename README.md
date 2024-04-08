@@ -25,6 +25,9 @@
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
 </div>
 
+### 🧍🏻Personal Portfolio
+
+ **Portfolio Link:** [Yuvaraj's Portfolio](https://yuvaraj-dev-portfolio.vercel.app/)
 
 
 ### Socials
