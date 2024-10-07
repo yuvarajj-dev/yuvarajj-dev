@@ -1,7 +1,7 @@
 # Hi There! My name is Yuvaraj  😄
 ========================================================================================================================================
 
-🌍 I am a Front-End React Developer based in Tamil Nadu, India.
+🌍 I am a FULL-STACK Developer based in Tamil Nadu, India.
 
 ### Skills
 <div style="display: flex; justify-content: center; align-items: center;">
